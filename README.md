@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # edabit-javascript-challenges
 
 Javascript challenges forked from Edabit.
@@ -40,8 +39,3 @@ To try a challenge:
 If you get stuck on a challenge, move on and try and different one for
 a bit. This gives your mind the chance to subconsciously think about
 the problem, and you can come back later and try and solve it again.
-=======
-# Some of JavaScript challenges solutions.
-
-Free to contribute to current challenges solutions. Most of these codes were selected from Edabit
->>>>>>> ca22b46ee65f81f3fdf281ad961229beb2936435
